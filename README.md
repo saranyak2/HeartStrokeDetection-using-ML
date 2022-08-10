@@ -1,1 +1,0 @@
-# HeartStrokeDetection-using-ML
